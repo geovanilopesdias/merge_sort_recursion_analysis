@@ -1,4 +1,4 @@
-# Recursion analysis into Merge Sort
+# Recursion analysis of the Merge Sort algorithm
 **Abstract**: Analysis of the recursion process of the Merge Sort algorithm.
 
 ## Background
